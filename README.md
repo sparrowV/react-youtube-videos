@@ -1,4 +1,4 @@
-This is a react app which display youtube videos based on the search term you supply. It calls the youtube api and fetches 5 videos for each term. Supply any search term and hit default.
+This is a react app which display youtube videos based on the search term you supply. It calls the youtube api and fetches 5 videos for each term. Supply any search term and hit enter.
 The default term is:
 ### 'Buildings'
 
